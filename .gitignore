@@ -1,0 +1,11 @@
+# ignore ALL .log files
+*.log
+
+# ignore venv
+venv/
+
+# ignore .venv
+.env
+
+# ignore __pycache__ dir
+__pycache__
